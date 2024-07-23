@@ -41,5 +41,5 @@ int main() {
   int visit = calculator(T1, F1, S1, P1, C1);
   int home = calculator(T2, F2, S2, P2, C2);
   std::cout << visit << " " << home << "\n";
-  return 0
+  return 0;
 }
