@@ -33,6 +33,7 @@ int main() {
 			}
 		}
 	}
+
 	sort(v.begin(), v.end());
 	cout << (int)round(sum / v.size()) << "\n";
 	cout << v[v.size()/2] << "\n";
